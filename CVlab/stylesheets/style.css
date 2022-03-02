@@ -39,3 +39,31 @@
     display: inline;
     padding: 0 5px;
 }
+
+.education_item {
+    display: flex;
+    align-items: center;
+    width: 33.333%
+}
+
+.education_item.logo {
+    width: 10%;
+    align-items: center;
+}
+.education_item.logo img {
+    width: 100%; 
+    align-items: center;
+}
+
+.education_item ul li {
+    list-style: none;
+    align-items: center;
+    padding: 5px 0;
+
+.secondary{
+    color: #AAA;
+    }
+    .title{
+        font-size: 24px;
+    }
+
