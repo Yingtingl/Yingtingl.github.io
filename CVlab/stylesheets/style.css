@@ -73,6 +73,7 @@
 }
 
 
+
 .secondary{
     color: #AAA;
     }
@@ -106,3 +107,4 @@
 .other_block>* {
     box-sizing: border-box;
 }
+
